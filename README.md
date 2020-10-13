@@ -5,6 +5,8 @@
 * Calva
 * clj-kondo
 
+Connect to a running REPL using `ctrl+alt+c ctrl+alt+c`
+
 ## Run
 
 `cd into folder`
